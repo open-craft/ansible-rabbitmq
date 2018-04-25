@@ -1,9 +1,3 @@
-Ansible role for a single-node RabbitMQ instance
-================================================
+This repository is obsolete.  The contents has been merged into the [ansible-playbooks][1] repo.
 
-This role simply deploys RabbitMQ as a single node (non-clustered).
-
-Requirements
-------------
-
-The role can be run against a server with a vanilla Ubuntu 16.04 image.
+[1]: https://github.com/open-craft/ansible-playbooks
